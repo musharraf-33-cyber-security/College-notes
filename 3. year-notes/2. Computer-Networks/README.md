@@ -5,5 +5,19 @@
 
 
 
+# 2
+
+https://www.slideshare.net/slideshow/computer-network-notes-handwritten-unit-1/60177053
+
+
+
+
 
 https://github.com/imran1509/Networking-Handwritten-Notes/blob/master/Networking%20notes.pdf
+
+
+
+
+
+# More
+https://topperworld.in/b-tech-computer-network-notes/
