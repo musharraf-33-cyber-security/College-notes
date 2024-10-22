@@ -1,13 +1,16 @@
-# Information Security standard: 
-1. Defining Cyberspace and Cybersecurity, 
-2. Value of Standards, 
-3. Good Practice for Information Security, 
-4. ISO Suite of Information Security Standards, 
-5. NIST Cybersecurity Framework and Security Documents, 
-6. CIS Critical Security 08Controls for Effective Cyber Defense, 
-7. COBIT-5 for Information Security,
-8. Payment Card Industry Data Security Standard,
-9. ITU-T Security Documents, Effective Cybersecurity
+# Information Security standard:  
+[Read more](https://www.techtarget.com/whatis/definition/information-security-management-system-ISMS)
+- [ISM](https://www.itgovernance.co.uk/blog/what-is-information-security-management)
+- [Information security-related ](https://www.geeksforgeeks.org/what-is-information-security/)
+1. Defining Cyberspace and Cybersecurity, [Read](https://www.geeksforgeeks.org/what-is-cyberspace/)
+2. Value of Standards, [Read more]()
+3. Good Practice for Information Security, [Read more](https://www.titanfile.com/blog/cyber-security-tips-best-practices/)
+4. ISO Suite of Information Security Standards, [Read more](https://www.javatpoint.com/cyber-security-standards)
+5. NIST Cybersecurity Framework and Security Documents, [Read more]()
+6. CIS Critical Security 08Controls for Effective Cyber Defense, [Read more]()
+7. COBIT-5 for Information Security, [Read more]()
+8. Payment Card Industry Data Security Standard, [Read more]()
+9. ITU-T Security Documents, Effective Cybersecurity [Read more]()
 
 
 
