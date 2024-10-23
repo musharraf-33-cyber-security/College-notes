@@ -1,4 +1,3 @@
-Here are the answers to the questions based on Information Security Standards:
 
 ---
 
@@ -130,4 +129,3 @@ Here are the answers to the questions based on Information Security Standards:
 
 --- 
 
-This format provides both the questions and detailed answers related to the key topics in information security standards.
